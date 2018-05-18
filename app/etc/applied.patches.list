@@ -543,7 +543,7 @@ patching file js/mage/adminhtml/backup.js
 patching file lib/Varien/Filter/FormElementName.php
 
 
--e -n 2018-02-28 15:45:53 UTC | SUPEE-10570_CE_v1.7.0.2 | CE_1.7.0.2 | v1 | db062d5d697829711015bbb35d60dd91bf28b98f | Sat Feb 17 04:55:51 2018 +0200 | ce-1.7.0.2-dev
+2018-05-18 09:59:42 UTC | SUPEE-10570_CE_v1.7.0.2 | CE_1.7.0.2 | v1 | 0751c2137cab2b5c0651f8fc0d8f73312a134df1 | Fri Mar 16 13:52:32 2018 +0200 | ce-1.7.0.2-dev
 patching file app/Mage.php
 patching file app/code/core/Mage/Admin/Helper/Data.php
 patching file app/code/core/Mage/Admin/Model/Block.php
@@ -561,15 +561,9 @@ patching file app/code/core/Mage/Adminhtml/Block/Widget/Tabs.php
 patching file app/code/core/Mage/Adminhtml/Model/Config/Data.php
 patching file app/code/core/Mage/Adminhtml/Model/System/Store.php
 patching file app/code/core/Mage/Adminhtml/controllers/Catalog/ProductController.php
-patching file app/code/core/Mage/Adminhtml/controllers/CustomerController.php
 patching file app/code/core/Mage/Adminhtml/controllers/System/BackupController.php
 patching file app/code/core/Mage/Core/Model/Session/Abstract/Varien.php
 patching file app/code/core/Mage/Core/Model/Variable.php
-patching file app/code/core/Mage/Customer/Helper/Data.php
-patching file app/code/core/Mage/Customer/Model/Resource/Customer.php
-patching file app/code/core/Mage/Customer/controllers/AccountController.php
-Hunk #2 succeeded at 830 (offset 2 lines).
-Hunk #3 succeeded at 977 (offset 2 lines).
 patching file app/code/core/Mage/Customer/etc/config.xml
 patching file app/code/core/Mage/Customer/sql/customer_setup/upgrade-1.6.2.0.1.1.1-1.6.2.0.1.1.2.php
 patching file app/code/core/Mage/Downloadable/etc/config.xml
